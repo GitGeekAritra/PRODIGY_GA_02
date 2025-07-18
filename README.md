@@ -1,1 +1,1 @@
-# PRODIGY_GA_02
+The objective of this project is to explore the power of image generation using pre-trained deep learning models. By leveraging models like DALL·E, Stable Diffusion, or DeepAI, we aim to generate creative and realistic images based on textual prompts.
